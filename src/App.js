@@ -71,7 +71,7 @@ function App() {
           <div className='flex mt-[15px] mb-[15px] border-[2px] h-[40px] rounded-xl '>
             <input id='input' className='text-black w-[360px] px-3 rounded-l-xl bg-white-100 border-r-2'></input>
             <button onClick={handleThemeSwitch} className='w-[96px] bg-[#222222]'>color</button>
-            <button onClick={addVid} className='w-[96px] bg-[#222222] rounded-r-xl'>Add</button>
+            <button onClick={addVid} className='w-[96px] bg-[#222222] rounded-r-xl'>Adda</button>
           </div>
         </div>
 
